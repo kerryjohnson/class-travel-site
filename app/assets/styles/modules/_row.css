@@ -1,6 +1,6 @@
 .row {
 
-    @mixin clearfix;
+    @mixin clearfix{};
 
     &--gutters {
         padding-right: -65px;
